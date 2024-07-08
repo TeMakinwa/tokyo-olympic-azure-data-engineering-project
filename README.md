@@ -1,7 +1,7 @@
 # Tokyo Olympic | Azure Data Engineering Project
 
 ## Description
-This project demonstrates data engineering on Azure using Tokyo Olympics data sourced from GitHub.
+This project showcases data engineering on Azure using Tokyo Olympics data sourced from Kaggle and uploaded to this repository.
 
 ## Architecture
 
