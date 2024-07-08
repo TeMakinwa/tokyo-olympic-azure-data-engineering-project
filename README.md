@@ -12,7 +12,7 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 
 ## Azure Services Used
 1. Azure Data Lake Storage Gen 2: Primary storage for raw and transformed data
-2. Azure Synapse Analytics: Ingestion, Pipeline and Analysis
+2. Azure Synapse Analytics: Ingestion, Pipeline and Data Warehouse and Analytics
    - Notebook: Data Transformation
    - Lake Database: Table Storage for analytics
    - Pipeline: For Loop activity (Copy Data activity) and Notebook activity.
