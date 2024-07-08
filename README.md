@@ -11,7 +11,7 @@ This dataset includes details of over 11,000 athletes across 47 disciplines and 
 Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 ## Azure Services Used
-1. Azure Data Lake Storage Gen 2: Primary data storage
+1. Azure Data Lake Storage Gen 2: Primary storage for raw and transformed data
 2. Azure Synapse Analytics: Ingestion, Pipeline and Analysis
    - Notebook: Data Transformation
    - Lake Database: Table Storage for analytics
