@@ -19,4 +19,13 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
    - Pipeline: For Loop activity (Copy Data activity) and Notebook activity.
 <img src="images/resources.png">
 
+## Workflow
+### Pipeline
+<img src="">
+### Ingestion
+### Transformation
+### Analytics
+
+
+
 
