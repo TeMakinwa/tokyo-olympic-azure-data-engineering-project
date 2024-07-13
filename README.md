@@ -24,6 +24,11 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 <img src="images/pipeline/forloop and notebook pipeline.png">
 
 ### Ingestion
+1. For data ingestion, I utilized Azure Synapse Analytics.
+2. To streamline the process and prevent redundant creation of the copy-data activity, I employed a for-loop activity integrated with the copy-data activity.
+3. I defined an array of variables containing table names.
+4. These table names were used by the for-loop activity to iterate through and perform the necessary data copying operations.
+<img src=">
 
 ### Transformation
 
