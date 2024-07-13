@@ -49,7 +49,7 @@ I utilized the **Lake Database** service in **Azure Synapse Analytics** to creat
 
 For exploratory analysis, I employed **SQL**.
 
-Here is the link to the SQL code: [Tokyo Olympics SQL Script.sql](https://github.com/TeMakinwa/tokyo-olympic-azure-data-engineering-project/blob/main/Codes/Tokyo%20Olympics%20SQL%20Script.sql)
+Refer to the SQL script: [Tokyo Olympics SQL Script.sql](https://github.com/TeMakinwa/tokyo-olympic-azure-data-engineering-project/blob/main/Codes/Tokyo%20Olympics%20SQL%20Script.sql)
 
 
 
