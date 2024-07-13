@@ -16,7 +16,7 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 2. Azure Synapse Analytics: Ingestion, Pipeline and Data Warehouse and Analytics
    - Notebook: Data Transformation
    - Lake Database: Table Storage for analytics
-   - Pipeline: For Loop activity (Copy Data activity) and Notebook activity.
+   - Pipeline: For-Loop activity (Copy Data activity) and Notebook activity.
 <img src="images/resources.png">
 
 ## Workflow
