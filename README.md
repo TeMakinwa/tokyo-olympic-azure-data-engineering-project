@@ -38,9 +38,9 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
    <img src="images/pipeline/copy_activity_dashboard_(source).png">
 
 ### Transformation
-I performed data transformation using the Spark Notebook in Azure Synapse Analytics.
+I utilized the Spark Notebook in Azure Synapse Analytics to transform data and store the transformed data into another folder named "transformed data" within Azure Data Lake Storage Gen 2.
 
-<img src="images/pipeline/Source_settings_for_copy_activity.png">
+Here is the link to the transformation code:
 
 ### Analytics
 
