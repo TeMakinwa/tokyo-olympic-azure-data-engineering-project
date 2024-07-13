@@ -21,9 +21,12 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 
 ## Workflow
 ### Pipeline
-<img src="">
+<img src="images/pipeline/forloop and notebook pipeline.png">
+
 ### Ingestion
+
 ### Transformation
+
 ### Analytics
 
 
