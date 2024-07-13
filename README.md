@@ -17,5 +17,6 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
    - Notebook: Data Transformation
    - Lake Database: Table Storage for analytics
    - Pipeline: For Loop activity (Copy Data activity) and Notebook activity.
+<img src="images/resources.png">
 
 
