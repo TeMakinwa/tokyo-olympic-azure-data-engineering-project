@@ -40,7 +40,7 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 ### Transformation
 I utilized the Spark Notebook in Azure Synapse Analytics to transform data and store the transformed data into another folder named "transformed data" within Azure Data Lake Storage Gen 2.
 
-Here is the link to the transformation code: https://github.com/TeMakinwa/tokyo-olympic-azure-data-engineering-project/blob/main/Codes/Transformation_Notebook.ipynb
+Here is the link to the transformation code: [Transformation Notebook.ipynb]https://github.com/TeMakinwa/tokyo-olympic-azure-data-engineering-project/blob/main/Codes/Transformation_Notebook.ipynb
 
 ### Analytics
 
